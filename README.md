@@ -42,4 +42,4 @@ Katkıda bulunmak isterseniz, lütfen aşağıdaki adımları izleyin:
 
 ## Lisans
 
-Bu proje [Lisans Adı] lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
+Ücretsiz Kullanım
